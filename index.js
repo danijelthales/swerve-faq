@@ -7,7 +7,7 @@ const https = require('https');
 const redis = require("redis");
 let redisClient = null;
 
-
+var fs = require('fs');
 var swervePrice = 0.668;
 var swerveMarketcap = 5242720;
 
@@ -314,6 +314,7 @@ client.on("message", msg => {
                         }
                     }
                 } catch (e) {
+                    console.log(e);
                     msg.reply("Unknown error ocurred.  Try **help** to see what I do know, or if you want to ask a custom question, make sure it ends with a question mark **?**");
                 }
             }
