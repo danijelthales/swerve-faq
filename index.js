@@ -853,6 +853,8 @@ function doShowChart(type, msg, fromDM) {
     }
 }
 
+const puppeteer = require('puppeteer');
+
 async function getChart(type) {
     try {
         const browser = await puppeteer.launch({
