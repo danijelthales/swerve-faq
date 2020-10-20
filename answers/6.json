@@ -1,0 +1,12 @@
+{
+  "title": "Question 6:",
+  "description": "What is the total supply and the emission schedule?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "There will be total 33,000,000 SWRV tokens in existence, and the distribution will be over the course of 6 years. To incentivise the migration of liquidity to Swerve, the initial two weeks will reward a higher percentage of the supply to liquidity providers.\n\nThe schedule is as follows:\nFirst 2 weeks: 9,000,000 SWRV\nYear 1 (after the 2 weeks): 9,000,000 SWRV\nYear 2: 3,000,000 SWRV\nYear 3: 3,000,000 SWRV\nYear 4: 3,000,000 SWRV\nYear 5: 3,000,000 SWRV\nYear 6: 3,000,000 SWRV\nTotal: 33,000,000 SWRV"
+    }
+  ],
+  "footer": {}
+}

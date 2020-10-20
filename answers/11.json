@@ -1,0 +1,16 @@
+{
+  "title": "Question 11:",
+  "description": "How boost works v2?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "The \"max boost\" range you see on the homepage is the theoretical max APY you would receive if you were the only one boosting 2.5x. As more people lock their SWRV and receive veSWRV, the APY for any boost multipliers begins diluting. Generally, you will not receive the max of that APY range as the typical user. But say for example, someone deposited $5B (10x what's currency in Swerve) and locked for the 2.5x multiplier, their APY would be much nearer that max range. Boost is a calculation depending on how much SWRV is locked and boosted, how much you have locked and boosted, how much swUSD is staked in the rewards pool, and how much money is locked in Swerve. "
+    },
+    {
+      "title": "\u200b",
+      "value": "As a normal and average user and depositor, your APY will fall somewhere in the middle of that range, this is normal and expected. You don't actually multiply your base APY by 2.5x when boosting. To think about it, imagine if everybody boosted 2.5x, then nobody would actually receive any increased or boosted rewards over the base APY. There is only so much SWRV to distribute. If you were the only 2.5x booster, yes, your boost would be 2.5x the base APY. But as more people lock and boost, that ratio begins diluting. \n\nWe understand this can be very confusing, and are working on a way to re-do the Boost UX and communicate this better to users. One alternative way to think of boost is as \"dilution protection\" where you are protecting your base APY from further decreasing as more money gets staked and locked in Swerve. \n\nYou can confirm your APY is accurate by checking with https://debank.com/ as well, they have accurate calculations for you holdings and stake in Swerve."
+    }
+  ],
+  "footer": {}
+}

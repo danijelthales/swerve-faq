@@ -1,0 +1,16 @@
+{
+  "title": "Question 5:",
+  "description": "How does the Governance work?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "Currently all the governance-related discussions take place in #governance and #proposal-chat.  The proposals suggested by the community are put up for an off-chain voting solution on https://snapshot.page/#/swerve"
+    },
+    {
+      "title": "\u200b",
+      "value": "Off-chain voting does not cost anything and anyone is free to create proposals, although it is recommended to discuss it with the community first.\n\nOff-chain votes are used to gauge the readiness and acceptance of the community towards proposals, and the votes are made by using SWRV held in wallets.\n\nOff-chain proposals can be discussed in the numbered discussion channel in SIPS where the SIP number corresponds to the proposal.\n\nProposals that pass in the off-chain votes would be formalised on the official on-chain DAO which actually costs gas fees to vote, and relies on Voting Power (veSWRV) instead of SWRV. Voting Power is attained by locking SWRV tokens in the DAO.\n\nThe DAO proposals can be accessed [here](https://bafybeiaudy7h3gh2355hbpc5rrmx6n5s6ttwxphfeuxbsa5dkqojqhnnsi.ipfs.dweb.link/dao/)\n\nAll off-chain voting proposals that pass would eventually be put up for vote on DAO for finality and implementation."
+    }
+  ],
+  "footer": {}
+}

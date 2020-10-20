@@ -1,0 +1,12 @@
+{
+  "title": "Question 1:",
+  "description": "What is Swerve?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "Swerve is a community focused fork of [curve](https://curve.fi/).\nThe most critical change is the removal of platform/developer fees.\nThese systems allow users to \"mine\" a governance token in exchange for staking stablecoin tokens."
+    }
+  ],
+  "footer": {}
+}

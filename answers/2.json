@@ -1,0 +1,21 @@
+{
+  "title": "Question 2?",
+  "description": "How do I farm SWRV?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Step 1:",
+      "value": "Get some of your preferred stablecoin (DAI, USDC, USDT or TUSD) and head [here](http://ipfs2.swerve.fi/#/swusd/deposit). [image](https://cdn.discordapp.com/attachments/379253004186157068/752409604939448411/unknown.png) For #2, select your preferred settings.\nPersonally I trust the \"Infinite Approval\" and it saves time/gas in future, but it is up to user discretion.\n\nClick \"DEPOSIT\" when you are ready.\nTwo transactions will appear, and you can submit them both at the same time."
+    },
+    {
+      "title": "Step 2:",
+      "value": "Go [to](http://ipfs2.swerve.fi/dao/#/) \n\nAt the bottom of the page you should see your stablecoin tokens, which are now SWUSD [image](https://cdn.discordapp.com/attachments/379253004186157068/752411076406149210/unknown.png). Click \"DEPOSIT\" to start mining.\nThis will require another two transactions.\n\nOnce this is complete, you should see the following [image](https://cdn.discordapp.com/attachments/379253004186157068/752411715840507964/unknown.png). Note: you may need to refresh to see the \"Claim\" button.\n\nYou are now farming SWRV with your stablecoins-turned-SWUSD!"
+    },
+    {
+      "title": "Step 3:",
+      "value": "Get some of your preferred stablecoin (DAI, USDC, USDT or TUSD) and head [here](http://ipfs2.swerve.fi/#/swusd/deposit)"
+    }
+  ],
+  "image": "mineswrv.png",
+  "footer": {}
+}

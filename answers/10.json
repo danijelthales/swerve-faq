@@ -1,0 +1,16 @@
+{
+  "title": "Question 10:",
+  "description": "Governance Mechanisms?",
+  "color": "0099ff",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "There seems to be some confusion about governance mechanisms, so here's an explanation:\n\nRight now there are TWO voting mechanisms. \n\nThe first is a non-binding (signalling) vote. Proposals can be put forth by anyone, and anybody with SWRV (not veSWRV) can vote. This takes place on snapshot, and your amount of SWRV is measured based on a snapshot at  specific block number on the ETH network (I assume the block number is the time that the proposal is submitted, or set by the person submitting).\n\nThe signalling vote is essentially a community feedback mechanism. It's good because it's free to use this signalling mechanism, as such it's a good way to see what ideas and proposals should be created (in code form) so that it can be voted on for real in the DAO. \n\nThink of this as a non binding vote to see where the community's at and what things are worth pursuing."
+    },
+    {
+      "title": "\u200b",
+      "value": "The second type of voting is an on-chain, binding vote. (My understanding is) this kind of vote commits code changes to the smart contract if passed.\n\nIdeas that are popular with the community via the non-binding votes will be implemented as official governance proposals that will get voted on in the DAO (or in some cases be found to be difficult/impossible to implement). \n\nThis voting is on chain, so it costs gas to vote. It also uses veSWRV (vote locked SWRV) rather than just SWRV. This is a designed to incentivize longer term thinking. There are set thresholds that need to be met depending on the type of proposal for official DAO votes, and once passed, these votes actually change the smart contract.\n\nTLDR: Two kinds of voting, first is non-binding, doesn't cost money, uses SWRV, and occurs on snapshot. Second is binding, takes place in the DAO, is binding, costs money/gas, and commits real changes to the protocol."
+    }
+  ],
+  "footer": {}
+}

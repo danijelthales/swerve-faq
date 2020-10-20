@@ -1,0 +1,17 @@
+{
+  "title": "Question 3:",
+  "description": "How does the Boost work?",
+  "color": "0099ff",
+  "url": "https://bafybeiaudy7h3gh2355hbpc5rrmx6n5s6ttwxphfeuxbsa5dkqojqhnnsi.ipfs.dweb.link/dao/#/minter/calc",
+  "fields": [
+    {
+      "title": "Answer:",
+      "value": "Boost is a reward gaming mechanism where LPs can increase their rewards in proportion to other LPs who have not Boosted. It is more of a protection against dilution of rewards.\n\nIf nobody boosts, everyone gets the base rate APY.\n\nIf most users don't boost and some do, the boosters would get more rewards and the rewards for non-boosters would be reduced in proportion.\n\nIf everyone boosts to max levels, everyone would get the base rate APY."
+    },
+    {
+      "title": "Calculation",
+      "value": "To calculate your boost requirements, go [here](https://bafybeiaudy7h3gh2355hbpc5rrmx6n5s6ttwxphfeuxbsa5dkqojqhnnsi.ipfs.dweb.link/dao/#/minter/calc). To future-proof your boost and protect against dilution, it is advised to lock more than necessary for max boost. Boost decays when the total SWRV locked increases."
+    }
+  ],
+  "footer": {}
+}
