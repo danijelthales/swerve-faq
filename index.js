@@ -59,8 +59,8 @@ client.on("guildMemberAdd", function (member) {
 client.on('messageReactionAdd', (reaction, user) => {
     let msg = reaction.message, emoji = reaction.emoji;
     if (emoji.name == '❌') {
-        if (msg.author.username.includes("FAQ")) {
-            if (!user.username.includes("FAQ")) {
+        if (msg.author.username.toLowerCase().includes("faq")) {
+            if (!user.username.toLowerCase().includes("faq")) {
                 msg.delete({timeout: 300 /*time unitl delete in milliseconds*/});
             }
         }
@@ -152,7 +152,7 @@ function doInnerQuestion(command, doReply, msg) {
 
 client.on("message", msg => {
 
-        if (!msg.author.username.includes("FAQ")) {
+        if (!msg.author.username.toLowerCase().includes("faq")) {
 
             if (!(msg.channel.type == "dm")) {
                 // this is logic for channels
