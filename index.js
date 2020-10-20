@@ -1,5 +1,6 @@
 require("dotenv").config()
-
+const Discord = require("discord.js")
+const client = new Discord.Client();
 
 const replaceString = require('replace-string');
 const https = require('https');

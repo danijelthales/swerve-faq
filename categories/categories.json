@@ -1,148 +1,19 @@
 [
   {
-    "name": "SNX",
-    "desc": "General question about SNX token",
+    "name": "swerve",
+    "desc": "General question about swerve",
     "questions": [
       1,
       2,
       3,
-      36,
-      37,
-      39,
-      42,
-      43,
-      52,
-      53,
-      66,
-      67,
-      68,
-      69,
-      77
-    ]
-  },
-  {
-    "name": "Staking&Minting",
-    "desc": "General question staking SNX and minting sUSD",
-    "questions": [
-      1,
-      2,
-      3,
-      10,
-      11,
-      16,
-      22,
-      32,
-      33,
-      37,
-      13,
-      79
-    ]
-  },
-  {
-    "name": "Debt&C-Ratio",
-    "desc": "Questions about debt management and C-Ratio",
-    "questions": [
-      11,
-      14,
-      37,
-      70
-    ]
-  },
-  {
-    "name": "SNX-Rewards&LP",
-    "desc": "General question SNX rewards (staking and liquidity pools)",
-    "questions": [
-      1,
-      15,
-      17,
-      22,
-      35,
-      38,
-      78
-    ]
-  },
-  {
-    "name": "Synthetix.Exchange",
-    "desc": "General question the exchange and synths",
-    "questions": [
-      18,
-      20,
-      26,
-      29,
-      30,
-      31,
-      34,
-      39,
-      41,
-      46,
-      47,
-      48,
-      49,
-      50,
-      66
-    ]
-  },
-  {
-    "name": "HAVVEN&ICO",
-    "desc": "Question about the old token name and contracts and the ICO",
-    "questions": [
+      4,
       5,
-      6
-    ]
-  },
-  {
-    "name": "Prices",
-    "desc": "Question about current gas, SNX and synths prices",
-    "questions": [
+      6,
       7,
       8,
-      9
-    ]
-  },
-  {
-    "name": "Transactions&Gas",
-    "desc": "Question about failing transactions and their gas limits",
-    "questions": [
-      21,
-      23,
-      25,
-      26,
-      27,
-      45,
-      51,
-      71
-    ]
-  },
-  {
-    "name": "Wallet&dApps",
-    "desc": "Question about supported wallets and dApps",
-    "questions": [
-      24,
-      28,
-      36,
-      51,
-      68
-    ]
-  },
-  {
-    "name": "Governance&Community",
-    "desc": "Question about synthetix governance process and discord",
-    "questions": [
-      40,
-      42,
-      44,
-      49,
-      19,
-      12,
-      69
-    ]
-  },
-  {
-    "name": "Fun.Stuff",
-    "desc": "Casual questions, jokes, memes",
-    "questions": [
-      80,
-      81
+      9,
+      10,
+      11
     ]
   }
 ]
