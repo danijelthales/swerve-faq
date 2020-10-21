@@ -180,7 +180,7 @@ client.on("message", msg => {
                 } else if (msg.content.toLowerCase().trim().replace(/ +(?= )/g, '').startsWith("!faq ")) {
                     let found = checkAliasMatching(false);
                     if (!found) {
-                        let notFoundMessage = "Oops, I don't know that one. You can check out my user guide: https://www.notion.so/Synthetix-Discord-FAQ-Bot-bb9f93cd2d1148ba86c0abbc58b06da0";
+                        let notFoundMessage = "Oops, I don't know that one. DM me ***list*** or ***aliases*** to see which questions and commands I know.";
                         msg.channel.send(notFoundMessage).then(function (message) {
                             message.react("❌");
                         }).catch(function () {
